@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(209, 171, 209);
+  font-family: roboto;
+  line-height: 1, 5;
+  font-size: 18px;
+}
+.title {
+  font-size: 50px;
+  color: rgb(90, 73, 73);
+}
+.example-1 {
+  text-align: center;
+}
+
+.example-2 {
+  font-variant: small-caps;
+  font-size: 20px;
+  font: monserart;
+  background-color: rgb(127, 22, 224);
+  text-align: center;
+  padding: 15px 30px;
+  border-width: 1px;
+  border-style: outset;
+}
